@@ -9,8 +9,6 @@ Welcome to the Bank Churn Predictor Dashboard! This project provides an interact
 - [Installation](#installation)
 - [Usage](#usage)
 - [Code Structure](#code-structure)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Project Overview
 
